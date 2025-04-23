@@ -1,5 +1,7 @@
-## Hi, my name is Gabriela! Welcome to my GitHub profile.😁
+# Hi, my name is Gabriela! Welcome to my GitHub profile.😁
 
+### I´m a Digital Solutions apprentice at Bosch 
+### I like to learn and practice technology
 
 
 
