@@ -1,13 +1,17 @@
-# Hi, my name is Gabriela! Welcome to my GitHub profile.😁
+# Hi, my name is Gabriela! 😁
+Welcome to my GitHub profile.
 
 ***
-## About Me 🙋‍♀️
 
-- I´m a FullStack Developer 💻
-- I´m a Digital Solutions apprentice at Bosch 💪
-- I like to learn and practice technology ✍
+## 🙋‍♀️ About Me 
 
+- 💻 I'm a FullStack Developer  
+- 💪 I'm a Digital Solutions Apprentice at Bosch.  
+- 🎓 Currently studying Systems Analysis and Development (1st semester)  
+- 🌟 Passionate about technology, innovation, and building impactful solutions  
 
+***
+## 📊 GitHub Stats
 
 <div>
 <a href="https://github.com/gabrielamelof">
@@ -15,17 +19,4 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielamelof&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
   
-<!--
-**gabrielamelof/gabrielamelof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+***
