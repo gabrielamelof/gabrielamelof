@@ -20,3 +20,8 @@ Welcome to my GitHub profile.
 </div>
   
 ***
+## 📫 Let's Connect
+
+- 💼 [LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/gabriela-melo-a144a2235?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- 📧 gabrielamfreitas21@gmail.com  
+
