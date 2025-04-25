@@ -13,9 +13,9 @@ Welcome to my GitHub profile.
 ***
 ## 📊 GitHub Stats
 
-<div>
+<div align="center">
 <a href="https://github.com/gabrielamelof">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielamelof&layout=compact&langs_count=7&theme=tokyonight"/><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielamelof&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img loading="lazy" gap="15px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielamelof&layout=compact&langs_count=7&theme=tokyonight"/><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielamelof&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
   
 ***
@@ -25,7 +25,9 @@ Welcome to my GitHub profile.
 - 📧 gabrielamfreitas21@gmail.com  
 
 ***
-## Ferramentas e Tecnologias 
+## 🛠 Tools
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/ <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="60" height="60"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="60" height="60"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="60" height="60"/>
 
+*** 
+<p align="center"> Thanks for visiting! 😊 </p>
